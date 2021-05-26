@@ -23,9 +23,4 @@ In order to use ```zeplyn publish```, your folder will have to look like that :
 
 ```
 
-Then you need to go to your Package Name directory with you command prompt ```cd Package Name``` and type ```zeplyn publish``` : it will ask you for your PyPi infos and then it'll upload it.
-
-
-You should run that command in your command prompt in the folder directory where you want to put your package
-
-Zeplyn also have a ```zeplyn create``` command which automatically create a readme file, a setup.py file and a src folder where your package's code is going to be stored.
+Then you need to go to your Package Name directory with you command prompt ```cd Package Name``` and type ```zeplyn publish``` : it will ask you for your PyPi infos and then it'll upload it!
