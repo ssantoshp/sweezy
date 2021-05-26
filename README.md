@@ -1,10 +1,13 @@
 # Zeplyn
 
+## Installation
+
+```
+pip install zeplyn
+```
 ## Usage
 
-Zeplyn allows to you release python package fastly and easily in one command: 
-
-```zeplyn publish```
+Zeplyn allows to you release python package fastly and easily in one command ```zeplyn publish```
 
 You should run that command in your command prompt in the folder directory where you want to put your package
 
