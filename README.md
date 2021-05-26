@@ -1,6 +1,6 @@
 # Zeplyn
 
-Zeplyn allows to you **release python package fastly and easily** in one command '(```zeplyn publish```) so you can reiterate faster
+Zeplyn allows to you **release python package fastly and easily** in one command (```zeplyn publish```) so you can **reiterate faster**
 
 ## Installation 📥
 
