@@ -10,7 +10,9 @@ pip install zeplyn
 
 ## Usage
 
+
 ### zeplyn publish 🚀
+
 
 In order to use ```zeplyn publish```, your folder will have to look like that :
 
