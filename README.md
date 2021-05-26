@@ -1,2 +1,2 @@
-# Zeppelyn
-Zeppelyn allows to you release python package fastly and easily in one command so you can reiterate faster
+# Zeplyn
+Zeplyn allows to you release python package fastly and easily in one command so you can reiterate faster
